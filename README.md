@@ -31,9 +31,7 @@ I have written draft pseudo code on the goolge docs so, if you would like to fin
 please find the link below:-
 https://bit.ly/2uBcbwa
 
-Finally, I was currently working on the Testing but, due to time-limit and as well as I don't know the expected outcome of the counts of most page views and unique views, it was bit abstract to write the testing from the beginning.
-
-Given more time, after submitting this challenge, I will try to work on adding some Testing by researching and studying.
+Finally, I was currently working on the Testing but, due to time-limit, I couldn't write one for now but, I will write the test when I am available after submission.
 
 Thanks very much and if you have any further questions, please do not hesitate to contact me via email.
 
