@@ -12,15 +12,15 @@ For example, to find the most page views:-
 puts 'List of Web Pages with Most Page Views'
 p parse.most_views
 
-# puts 'List of Web Pages with Most Unique Views'
-# p parse.unique_views
+<!-- puts 'List of Web Pages with Most Unique Views'
+p parse.unique_views -->
 '''
 
 and to find the most unique page views:-
 
 '''
-# puts 'List of Web Pages with Most Page Views'
-# p parse.most_views
+<!-- puts 'List of Web Pages with Most Page Views'
+p parse.most_views -->
 
 puts 'List of Web Pages with Most Unique Views'
 p parse.unique_views
