@@ -1,4 +1,4 @@
-<h2>Smart Pension Ruby Test</h2>
+<h2>Smart Parse (Ruby)</h2>
 <h4>Instructions</h4>
 To run the program, please use the 'main.rb' file which is in the ruby_app directory.
 
@@ -40,6 +40,6 @@ To run the testing, you can run the testing by typing the following command when
 ruby testing.rb
 ```
 
-Thanks very much and if you have any further questions, please do not hesitate to contact me via email.
+Thanks very much.
 
 Dongjin Lee
